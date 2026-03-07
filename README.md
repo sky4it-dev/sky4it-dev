@@ -1,6 +1,4 @@
-Hi 👋 I'm Sanjay Kumar
-
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Head+of+UI+Developer;Senior+WordPress+Developer;Frontend+Developer;10%2B+Years+Experience+in+Web+Development&center=true&width=500&height=45">
+Hi 👋 I'm Sanjay Kumar.
 
 🚀 **Head of UI | Senior UI & WordPress Developer**
 
