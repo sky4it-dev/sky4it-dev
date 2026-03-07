@@ -8,16 +8,6 @@ Hi 👋 I'm Sanjay Kumar.
 
 👥 Leading teams and delivering scalable WordPress & frontend solutions
 
----
-
-👨‍💻 **About Me**
-
-🔭 Head of UI at Seahawk Media
-
-🧑‍💻 10+ years experience in UI Development & WordPress
-
-👨‍👩‍👧‍👦 Leading a team of UI Developers & Designers
-
 ⚡ Focused on Core Web Vitals & Performance Optimization
 
 🎯 Passionate about clean UI architecture and scalable systems
@@ -44,29 +34,6 @@ Builders - Elementor, Divi, Gutenberg, Kadence, Thrive, WPBakery, Beaver Builder
 
 **Project & Collaboration Tools:** Slack, ClickUp
 
----
-
-🏆 **Key Achievements**
-
-🏅 Promoted internally to Head of UI
-
-🏅 Led and mentored 5–10 UI developers
-
-🏅 Delivered high-volume WordPress websites
-
-🏅 Improved Core Web Vitals & performance optimization
-
-🏅 Established UI development standards
-
----
-
-🎓 **Education**
-
-M.Sc. in Information Technology, Bimal Institute of IT & Management (SMU)
-
-B.Sc. in Information Technology, Bimal Institute of IT & Management (SMU)
-
----
 
 📜 **Certifications**
 
