@@ -34,6 +34,7 @@ Builders - Elementor, Divi, Gutenberg, Kadence, Thrive, WPBakery, Beaver Builder
 
 **Project & Collaboration Tools:** Slack, ClickUp
 
+---
 
 📜 **Certifications**
 
