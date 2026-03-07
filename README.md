@@ -14,7 +14,7 @@ Hi 👋 I'm Sanjay Kumar
 
 🔭 Head of UI at Seahawk Media
 🧑‍💻 10+ years experience in UI Development & WordPress
-👨‍👩‍👧‍👦 Leading a team of 5–10 UI Developers & Designers
+👨‍👩‍👧‍👦 Leading a team of UI Developers & Designers
 ⚡ Focused on Core Web Vitals & Performance Optimization
 🎯 Passionate about clean UI architecture and scalable systems
 
@@ -22,58 +22,22 @@ Hi 👋 I'm Sanjay Kumar
 
 🛠️ **Tech Stack**
 
-Frontend
+**Frontend Technologies:** 
+HTML5, CSS3, JavaScript, Responsive Web Design, Cross-Browser Compatibility
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-</p>
+**CMS & Website Builders:**
+WordPress, WooCommerce, ACF (Advanced Custom Fields)
+Builders - Elementor, Divi, Gutenberg, Kadence, Thrive, WPBakery, Beaver Builder, Oxygen, SiteOrigin, Bricks
 
-WordPress & CMS
+**Programming / Backend:** PHP (Basic), MySQL (Basic)
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40"/>
-</p>
+**Design-to-Development Tools:** Figma, Adobe XD, Adobe Photoshop, Sketch, Zeplin
 
-Backend
+**Testing & Debugging Tools:** BrowserStack
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-</p>
+**AI & Productivity Tools:** ChatGPT, Lovable, MiniMax
 
-Design Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" height="40"/>
-</p>
-
-Tools
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-</p>
-
----
-
-📊 **GitHub Stats**
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=sky4it-dev&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sky4it-dev&theme=tokyonight"/>
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sky4it-dev&layout=compact&theme=tokyonight"/>
-</p>
+**Project & Collaboration Tools:** Slack, ClickUp
 
 ---
 
