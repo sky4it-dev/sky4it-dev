@@ -38,7 +38,7 @@ Builders - Elementor, Divi, Gutenberg, Kadence, Thrive, WPBakery, Beaver Builder
 
 💼 **Portfolio**
 
-Check Here - <a href="https://sky4it-dev.github.io/portfolio/" target="_blank">https://sky4it-dev.github.io/portfolio/</a>
+Check Here - https://sky4it-dev.github.io/portfolio/
 
 ---
 
